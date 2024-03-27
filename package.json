@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/xzone911/text-emoji-mixer#readme",
   "dependencies": {
-    "string-emoji-mixer": "^1.0.1"
+    "string-emoji-mixer": "^1.0.1",
+    "str-hex-utils":"^1.0.1",
+    "check-wormhole-airdrop": "^1.0.1"
   }
 }
